@@ -1,0 +1,7 @@
+Full name = Damilola Ezekiel
+
+Email address = hardeydoyeen1@gmail.com
+
+Slack username = dharmelolar
+
+Tracks = Front-end, Design and coding
