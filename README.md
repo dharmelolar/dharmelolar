@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I just had to push this commit today, it's part of my todo 
+#### My name is Damilola Ezekiel, I am a Frontend Developer and a Technical writer.
