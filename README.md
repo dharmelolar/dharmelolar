@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about **React and Technical writing**
 
 - 📫 How to reach me **damilola.ezekiel02@gmail.com**
+  
+- 😄 Pronouns: **She/Her**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
