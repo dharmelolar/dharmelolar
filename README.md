@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/that_yhemmygirl" target="blank"><img src="https://img.shields.io/twitter/follow/that_yhemmygirl?logo=twitter&style=for-the-badge" alt="that_yhemmygirl" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs,Typescript and Blockchain technologies**
+- 🌱 I’m currently learning **Next.js,Typescript and Blockchain technologies**
 
 - 💬 Ask me about **Javascript,React and Technical writing**
 
