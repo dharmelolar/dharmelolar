@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Nextjs,Typescript,Blockchain technologies and Everything Open Source**
 
-- 💬 Ask me about ** Javascript, React and Technical writing**
+- 💬 Ask me about **Javascript, React and Technical writing**
 
 - 📫 How to reach me **hardeydoyeen1@gmail.com**
   
