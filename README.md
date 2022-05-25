@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Javascript, React and Technical writing**
 
-- 📫 How to reach me **hardeydoyeen1@gmail.com**
   
 - 😄 Pronouns: **She/Her**
 
